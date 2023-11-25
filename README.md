@@ -19,7 +19,7 @@ The Caesar Cipher is a substitution cipher where each letter in the plaintext is
 
 ## 🌈 Example
 
-Here is the result of encoding and decoding a Caesar Cipher-encrypted message:
+Here is the result of encoding a Caesar Cipher-encrypted message:
 
 ```
 Type 'encode' to encrypt, type 'decode' to decrypt:
